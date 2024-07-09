@@ -1,0 +1,28 @@
+
+.tittle-notes{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    line-height: 34.05px;
+    width: 207px;
+    color: #2B3445;
+}
+.note{
+    max-width: 280px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    line-height:19.07px;
+    color: #2B3445;
+}
+
+.selected {
+    font-weight: bold;
+  }
+
+  .content-section{
+    margin-left: 50%;
+  }

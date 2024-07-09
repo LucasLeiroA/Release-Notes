@@ -1,0 +1,246 @@
+{
+  "releaseNotes": [
+    {
+      "version": "1.1.0",
+      "releaseDate": "2024-01-15",
+      "sections": [
+        {
+          "title": "Redesigned Notifications",
+          "description": "Hemos mejorado la gestión de notificaciones para una experiencia más intuitiva.",
+          "notificationSettings": [
+            {
+              "type": "Inbox",
+              "settings": ["default", "focused", "custom"]
+            },
+            {
+              "type": "Email",
+              "settings": ["default", "focused", "custom"]
+            },
+            {
+              "type": "Browser",
+              "settings": ["default", "focused", "custom"]
+            },
+            {
+              "type": "Mobile",
+              "settings": ["default", "focused", "custom"]
+            }
+          ]
+        },
+        {
+          "title": "Bugs",
+          "description": "Lista de problemas conocidos que necesitan ser corregidos en futuras versiones.",
+          "knownIssues": [
+            "Error de visualización en dispositivos con pantalla pequeña.",
+            "Problema con la sincronización de notificaciones en ciertos dispositivos Android.",
+             "Problema con la sincronización de notificaciones en ciertos dispositivos Android.",
+              "Problema con la sincronización de notificaciones en ciertos dispositivos Android.",
+               "Problema con la sincronización de notificaciones en ciertos dispositivos Android."
+          ]
+        },
+        {
+          "title": "Redesigned Time Tracking",
+          "description": "Mejoras en la interfaz y funcionalidad del seguimiento del tiempo.",
+          "editSprintFolder": {
+            "sprintName": "Nombre del Sprint",
+            "defaultTemplate": "Plantilla por Defecto",
+            "sprintDuration": "Duración del Sprint",
+            "dateFormat": "Formato de Fecha",
+            "sprintTimezone": "Zona Horaria del Sprint"
+          }
+        }
+      ]
+    },
+    {
+      "version": "1.2.0",
+      "releaseDate": "2024-02-28",
+      "sections": [
+        {
+          "title": "Redesigned Notifications",
+          "description": "Notificaciones mejoradas para una mejor organización y gestión.",
+          "notificationSettings": [
+            {
+              "type": "Inbox",
+              "settings": ["default", "focused", "custom"]
+            },
+            {
+              "type": "Email",
+              "settings": ["default", "focused", "custom"]
+            },
+            {
+              "type": "Browser",
+              "settings": ["default", "focused", "custom"]
+            },
+            {
+              "type": "Mobile",
+              "settings": ["default", "focused", "custom"]
+            }
+          ]
+        },
+        {
+          "title": "Bugs",
+          "description": "Problemas conocidos identificados y programados para la próxima actualización.",
+          "knownIssues": [
+            "Error al abrir ciertos tipos de archivos adjuntos en notificaciones de correo electrónico.",
+            "Fallo intermitente al sincronizar notificaciones en dispositivos iOS."
+          ]
+        },
+        {
+          "title": "Redesigned Time Tracking",
+          "description": "Funcionalidad optimizada para un seguimiento de tiempo más eficiente y preciso.",
+          "editSprintFolder": {
+            "sprintName": "Nombre del Sprint",
+            "defaultTemplate": "Plantilla por Defecto",
+            "sprintDuration": "Duración del Sprint",
+            "dateFormat": "Formato de Fecha",
+            "sprintTimezone": "Zona Horaria del Sprint"
+          }
+        }
+      ]
+    },
+    {
+      "version": "1.3.0",
+      "releaseDate": "2024-04-10",
+      "sections": [
+        {
+          "title": "Redesigned Notifications",
+          "description": "Nuevas opciones de personalización para las notificaciones.",
+          "notificationSettings": [
+            {
+              "type": "Inbox",
+              "settings": ["default", "focused", "custom"]
+            },
+            {
+              "type": "Email",
+              "settings": ["default", "focused", "custom"]
+            },
+            {
+              "type": "Browser",
+              "settings": ["default", "focused", "custom"]
+            },
+            {
+              "type": "Mobile",
+              "settings": ["default", "focused", "custom"]
+            }
+          ]
+        },
+        {
+          "title": "Bugs",
+          "description": "Errores reportados que serán abordados en futuras actualizaciones.",
+          "knownIssues": [
+            "Problema con la visualización de notificaciones emergentes en ciertas resoluciones de pantalla.",
+            "Fallo al entregar notificaciones en dispositivos Huawei."
+          ]
+        },
+        {
+          "title": "Redesigned Time Tracking",
+          "description": "Mejoras adicionales en la interfaz y configuración del seguimiento de tiempo.",
+          "editSprintFolder": {
+            "sprintName": "Nombre del Sprint",
+            "defaultTemplate": "Plantilla por Defecto",
+            "sprintDuration": "Duración del Sprint",
+            "dateFormat": "Formato de Fecha",
+            "sprintTimezone": "Zona Horaria del Sprint"
+          }
+        }
+      ]
+    },
+    {
+      "version": "1.4.0",
+      "releaseDate": "2024-05-22",
+      "sections": [
+        {
+          "title": "Redesigned Notifications",
+          "description": "Notificaciones rediseñadas para una experiencia más integrada.",
+          "notificationSettings": [
+            {
+              "type": "Inbox",
+              "settings": ["default", "focused", "custom"]
+            },
+            {
+              "type": "Email",
+              "settings": ["default", "focused", "custom"]
+            },
+            {
+              "type": "Browser",
+              "settings": ["default", "focused", "custom"]
+            },
+            {
+              "type": "Mobile",
+              "settings": ["default", "focused", "custom"]
+            }
+          ]
+        },
+        {
+          "title": "Bugs",
+          "description": "Errores identificados que serán solucionados en próximas versiones.",
+          "knownIssues": [
+            "Error al recibir notificaciones push en dispositivos con versiones antiguas de Android.",
+            "Fallo intermitente al sincronizar notificaciones en redes Wi-Fi específicas."
+          ]
+        },
+        {
+          "title": "Redesigned Time Tracking",
+          "description": "Optimización adicional en la gestión de proyectos y seguimiento de tiempo.",
+          "editSprintFolder": {
+            "sprintName": "Nombre del Sprint",
+            "defaultTemplate": "Plantilla por Defecto",
+            "sprintDuration": "Duración del Sprint",
+            "dateFormat": "Formato de Fecha",
+            "sprintTimezone": "Zona Horaria del Sprint"
+          }
+        }
+      ]
+    },
+    {
+      "version": "1.5.0",
+      "releaseDate": "2024-07-09",
+      "sections": [
+        {
+          "title": "Redesigned Notifications",
+          "description": "Hemos rediseñado la funcionalidad de las notificaciones para mejorar la experiencia del usuario.",
+          "notificationSettings": [
+            {
+              "type": "Inbox",
+              "settings": ["default", "focused", "custom"]
+            },
+            {
+              "type": "Email",
+              "settings": ["default", "focused", "custom"]
+            },
+            {
+              "type": "Browser",
+              "settings": ["default", "focused", "custom"]
+            },
+            {
+              "type": "Mobile",
+              "settings": ["default", "focused", "custom"]
+            }
+          ]
+        },
+        {
+          "title": "Bugs",
+          "description": "Problemas conocidos que necesitan ser corregidos en futuras versiones.",
+          "knownIssues": [
+            "Error de visualización en dispositivos con pantalla pequeña.",
+            "Problema con la sincronización de notificaciones en ciertos dispositivos Android.",
+            "Problema con la sincronización de notificaciones en ciertos dispositivos Android.",
+            "Problema con la sincronización de notificaciones en ciertos dispositivos Android.",
+            "Problema con la sincronización de notificaciones en ciertos dispositivos Android."
+            
+          ]
+        },
+        {
+          "title": "Redesigned Time Tracking",
+          "description": "Mejoras en la interfaz y funcionalidad del seguimiento del tiempo.",
+          "editSprintFolder": {
+            "sprintName": "Nombre del Sprint",
+            "defaultTemplate": "Plantilla por Defecto",
+            "sprintDuration": "Duración del Sprint",
+            "dateFormat": "Formato de Fecha",
+            "sprintTimezone": "Zona Horaria del Sprint"
+          }
+        }
+      ]
+    }
+  ]
+}

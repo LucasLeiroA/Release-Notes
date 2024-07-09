@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
+
+.main-content {
+  width: 100%; /* Ocupa el 70% del ancho */
+
+
+}
+
+.sidebar {
+  width: 100%; /* Ocupa el 30% del ancho */ 
+
+}

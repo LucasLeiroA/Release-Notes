@@ -1,0 +1,13 @@
+.header {
+    background: linear-gradient(to right, #0D5287, #187DCA, #05AACE, #04D2C6, #26E4C7);
+    height: 10vh; /* Ajusta la altura según tus necesidades */
+    /* Otros estilos para el header */
+  }
+
+  .tittle-header{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    color: #FFFFFF;
+  }

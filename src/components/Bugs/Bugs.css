@@ -1,0 +1,42 @@
+.bug-container {
+    position: relative;
+    margin-top: 5vh;
+  }
+  
+  .notification-line {
+    position: absolute; 
+    left: 10px; 
+    top: 0; 
+    width: 4px; 
+    height: 110%; 
+    background-color: #1CB59C;
+  }
+  
+  .notification-line::before {
+    content: '';
+    display: block; 
+    position: absolute; 
+    top: 0; 
+    left: -7px;
+    width: 20px; 
+    height: 20px; 
+    background-color: #1CB59C; 
+    border-radius: 50%;
+  }
+
+  .fix{
+    background-color:#FFF8E5 ;
+    color: #FFB800;
+    border-radius: 30%;
+    padding: 5px;
+    width: 63px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.lista{
+
+    font-family: Title Medium/Font;
+    font-weight: 500;
+}
